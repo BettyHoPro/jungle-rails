@@ -1,2 +1,14 @@
-<h1>Admin::Dashboard#show</h1>
-<p>Find me in app/views/admin/dashboard/show.html.erb</p>
+<header class="page-header">
+  <h1>Dashboard</h1>
+</header>
+
+<div class="list-group">
+  <a href="/" class="list-group-item list-group-item-action flex-column align-items-start">
+  
+    <h4 class="mb-1">Product ( <%= @product_amount %> )</h4>
+  </a>
+  <p></p>
+  <a href="categories/1" class="list-group-item list-group-item-action flex-column align-items-start">
+  <h4  class="mb-1">Category ( <%= @category_amount %> )</h4>
+</a>
+</div>
