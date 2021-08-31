@@ -1,7 +1,7 @@
 # Jungle
 
-Jungle is a mini e-commerce application built with Rails 4.2 during enrolling Lighthouse Labs BootCamp.
-This api provides shoppers and store owners to sell/buy products online.
+Jungle is a mini e-commerce application built with Rails 4.2. It provides shoppers and store owners to sell/buy products online.
+Tech stack: Ruby on Rails, Spec testing, Capybara testing and Poltergeist.
 ## Skills
 
 Ruby on Rails, Spec testing, Capybara testing and Poltergeist.
