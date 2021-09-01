@@ -2,7 +2,7 @@
 
 Jungle is a mini e-commerce application built with Rails 4.2. It provides shoppers and store owners to sell/buy products online.
 
-## Skills
+## Tech Stack
 
 Ruby on Rails, Spec testing, Capybara testing and Poltergeist.
 
